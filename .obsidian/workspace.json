@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "961b1fcb33172290",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ceb6a167add3f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d5c22515cd2157f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/晓黒serlineren-著诗-1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "晓黒serlineren-著诗-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f56d46c674320c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7c957df3be23eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b369058bbf290b82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a4ff5b90d67a5561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "诗集",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e57bfb99c91b9e02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.49999618530273
+  },
+  "right": {
+    "id": "e2c15cd743ca3df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "41df9c1c7c3ee12d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662b94095a0142f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/晓黒serlineren-著诗.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "晓黒serlineren-著诗 的反向链接列表"
+            }
+          },
+          {
+            "id": "82d0c582c3c25970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/晓黒serlineren-著诗.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "晓黒serlineren-著诗 的出链列表"
+            }
+          },
+          {
+            "id": "b8c1b742bed1ccd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "99ac2589969e0d67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "dc8191cdf26996af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/晓黒serlineren-著诗.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "晓黒serlineren-著诗 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3d5c22515cd2157f",
+  "lastOpenFiles": [
+    "_posts/亚空间核心理论总结.md",
+    "_posts/人物志：goe·serlineren·vic和xeuhaied·atopos.md",
+    "_posts/《enderland刑法》3006年修订转译精简还原版（可能有误写.md",
+    "_posts/文明史纲-2-2-0-0-0-间章-文明复苏的前夜.md",
+    "_posts/关于地球文明非义务基础教育特殊现象的观察报告.md",
+    "_posts/针对enderland文书中论述的公民定义.md",
+    "_posts/关于敏感内容在enderland的处理方式.md",
+    "_posts/第二次大远征时期的民用质能转换炉的工作原理.md",
+    "_posts/旧设-大纲新设时间线有改动，内容仅供参考.md",
+    "_posts/民间文化-enderland的圣烤鱼教.md",
+    "_posts/亚空间高维透析在生产生活上的应用原理.md",
+    "_posts/晓黒serlineren-著诗-1.md",
+    "_posts/三十分，三十年，三十分，三十朽木丛.md",
+    "_posts/通史补录-地球文明毁灭的史论分析.md",
+    "_posts/选录纲-六九建制初期的制度捍卫.md",
+    "_posts/环境学-宇宙和Endoria.md",
+    "_posts/以逝去者涅槃，以重生者安魂.md",
+    "_posts/补录纲-文明断层真相-1.md",
+    "_posts/补录纲-理论矛盾解释-1.md",
+    "_posts/灵都1号ex系统设定.md",
+    "_posts/Valensism.md",
+    "_posts/晓黒瞎说话-1.md",
+    "_posts/灵都市有多大.md",
+    "_posts/高维透析技术.md",
+    "_posts/宇宙协和时.md",
+    "_posts/环境学-3.md",
+    "_drafts",
+    "wp-content/uploads/wpforms/cache/index.html",
+    "wp-content/uploads/wpforms/cache/email-summaries.json",
+    "wp-content/uploads/wpforms/cache/addons.json",
+    "wp-content/uploads/wpforms/cache",
+    "wp-content/uploads/wpforms",
+    "wp-content/uploads/2026/03/1000001756.png",
+    "wp-content/uploads/2026/03/1000001756-768x474.png",
+    "wp-content/uploads/2026/03/1000001756-300x185.png",
+    "wp-content/uploads/2026/03/1000001756-150x150.png",
+    "wp-content/uploads/2026/03",
+    "wp-content/uploads/2026/01/国旗7.png",
+    "wp-content/uploads/2026/01/国旗7-768x425.png",
+    "wp-content/uploads/2026/01/国旗7-300x166.png",
+    "wp-content/uploads/2026/01/国旗7-1536x851.png",
+    "wp-content/uploads/2026/01/国旗7-150x150.png",
+    "wp-content/uploads/2026/01/国旗7-1024x567.png",
+    "wp-content/uploads/2026/01",
+    "wp-content/uploads/2025/09",
+    "wp-content/uploads/2025/11"
+  ]
+}
